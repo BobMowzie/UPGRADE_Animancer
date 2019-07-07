@@ -33,3 +33,10 @@ Content/ModularCliffs/Materials/Textures/T_env_sky_HDR.uasset
 Content/ModularCliffs/Levels/Demonstration.umap
 Content/ModularCliffs/Levels/Island_Example.umap
 Content/ModularCliffs/Levels/Overview.umap
+.vs/Animancer2/v15/Solution.VC.db-shm
+.vs/Animancer2/v15/Solution.VC.db-wal
+.vs/Animancer2/v15/ipch/AutoPCH/5b4317d6e90afe30/COMBATCHARACTERMOVEMENTCOMPONENT.ipch
+.vs/Animancer2/v15/ipch/AutoPCH/d140b75f49d02a5/CHARACTERMOVEMENTCOMPONENT.ipch
+.vs/Animancer2/v15/ipch/AutoPCH/ec1b82cd36454d51/PAPERCHARACTER.ipch
+Source/Animancer2/CombatCharacterMovementComponent.h
+Source/Animancer2/CombatCharacterMovementComponent.cpp
