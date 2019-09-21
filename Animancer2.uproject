@@ -2,15 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.22",
 	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "Animancer2",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	]
+	"Description": ""
 }
